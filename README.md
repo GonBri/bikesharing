@@ -6,4 +6,4 @@ We will show the investors the NYC Story with Real Data
 
 ![Getting Started](./images/Checkout Times for  Users.jpeg)
 
-![](Checkout Times for  Users.jpeg)
+![](images/Checkout Times for  Users.jpeg)
