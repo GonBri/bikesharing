@@ -4,7 +4,7 @@ The purpuse of this analysis is to create a story that convice investors that th
 
 We will show the investors the NYC Story with Real Data
 
-![](images/CheckoutTimesforUsers.png)
+![](images/CheckoutTimesforUsers.jpg)
 
 
 
