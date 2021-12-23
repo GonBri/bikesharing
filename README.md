@@ -6,5 +6,5 @@ We will show the investors the NYC Story with Real Data
 
 ![](./images/CheckoutTimesforUsers.jpg)
 
-
+![](2021-12-23-12-43-33.png)
 
