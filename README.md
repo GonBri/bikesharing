@@ -24,4 +24,4 @@ We will show the investors the NYC Story with Real Data
  We were able to show them the busiest time of the day, the checkout times by Gender, the amount of trips by weekday per hour. We also shared the Top Starting and Ending Locations which will be very important to focus in Des Moine.
  At the end we were able to deliver a complete analysis in order for the investors to make their decision. 
 
- [link to dashboard](https://public.tableau.com/authoring/Challenge-citibike/CheckoutTimesforUsers2/NYC%20Story#1)
+ [link to dashboard](https://public.tableau.com/views/Challenge-citibike/NYCStory?:language=en-US&:display_count=n&:origin=viz_share_link)
